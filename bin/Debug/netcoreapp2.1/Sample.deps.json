@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "b80334c2b7b48470f2fbaabe8e18c7adf93126fc"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Sample/1.0.0": {
+        "dependencies": {
+          "Independentsoft.Sip": "1.0.530"
+        },
+        "runtime": {
+          "Sample.dll": {}
+        }
+      },
+      "Independentsoft.Sip/1.0.530": {
+        "runtime": {
+          "Lib/netcoreapp2.0/Independentsoft.Sip.dll": {
+            "assemblyVersion": "1.0.520.1",
+            "fileVersion": "1.0.520.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Independentsoft.Sip/1.0.530": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oTTBGZawv/oufU9JwTkRj9jJtr+RCKPpZVvS9nt/b1Go3l7I8LNTi93ga6d0F+vmFtoGcsMCg6UPilkA6WEMLw==",
+      "path": "independentsoft.sip/1.0.530",
+      "hashPath": "independentsoft.sip.1.0.530.nupkg.sha512"
+    }
+  }
+}

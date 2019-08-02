@@ -1,0 +1,11 @@
+D:\Workshop\VB-Projects\Sample\bin\Debug\netcoreapp2.1\Sample.deps.json
+D:\Workshop\VB-Projects\Sample\bin\Debug\netcoreapp2.1\Sample.runtimeconfig.json
+D:\Workshop\VB-Projects\Sample\bin\Debug\netcoreapp2.1\Sample.runtimeconfig.dev.json
+D:\Workshop\VB-Projects\Sample\bin\Debug\netcoreapp2.1\Sample.dll
+D:\Workshop\VB-Projects\Sample\obj\Debug\netcoreapp2.1\Sample.csprojAssemblyReference.cache
+D:\Workshop\VB-Projects\Sample\obj\Debug\netcoreapp2.1\Sample.csproj.CoreCompileInputs.cache
+D:\Workshop\VB-Projects\Sample\obj\Debug\netcoreapp2.1\Sample.AssemblyInfoInputs.cache
+D:\Workshop\VB-Projects\Sample\obj\Debug\netcoreapp2.1\Sample.AssemblyInfo.cs
+D:\Workshop\VB-Projects\Sample\bin\Debug\netcoreapp2.1\Sample.pdb
+D:\Workshop\VB-Projects\Sample\obj\Debug\netcoreapp2.1\Sample.dll
+D:\Workshop\VB-Projects\Sample\obj\Debug\netcoreapp2.1\Sample.pdb
